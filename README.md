@@ -1,8 +1,8 @@
-Hi, I'm [Your Name] 👋
+Hi, I'm Divyansh Soni 👋
 
-I build robots, embedded systems, and automation projects that connect mechanical design, electronics, and code.
+I work on robots, embedded systems, IoT and automation projects that connect mechanical design, electronics, and code.
 
-[LinkedIn](https://linkedin.com/in/your-id) · [GitHub](https://github.com/your-username) · [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/sonidivyansh02/) · [GitHub](https://github.com/your-username) · [Email](mailto:your-email@example.com)
 
 ## About me
 
