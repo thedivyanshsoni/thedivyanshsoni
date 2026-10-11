@@ -42,7 +42,7 @@ I work on robots, embedded systems, IoT and automation projects that connect mec
 **Stack:** Arduino C++, L298N, HC-05, DC gear motors, Li-Ion power system
 **Repo:** [Pole-Climbing-Robot](https://github.com/your-username/Pole-Climbing-Robot)
 
-### [Project Name]
+### Projects
 
 <b>Pole-Climbing Robot | Arduino + Bluetooth</b>
 
