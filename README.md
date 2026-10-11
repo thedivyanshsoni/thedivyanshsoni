@@ -42,7 +42,16 @@ I work on robots, embedded systems, IoT and automation projects that connect mec
 **Stack:** Arduino C++, L298N, HC-05, DC gear motors, Li-Ion power system
 **Repo:** [Pole-Climbing-Robot](https://github.com/your-username/Pole-Climbing-Robot)
 
-### [Project Name] | [Short Tag]
+### [Project Name]
+
+<b>Pole-Climbing Robot | Arduino + Bluetooth</b>
+
+A Bluetooth-controlled robot that climbs and descends vertical poles and pipes, so tasks like inspection or surveillance don't require manual climbing.
+
+Three 150 RPM geared DC motors are mounted at 120-degree intervals around the pole, giving an even triangular grip that stays centered while moving.
+An Arduino Uno reads Up, Down and Stop commands from an HC-05 Bluetooth module and drives the motors through an L298N motor driver.
+Two Li-Ion cells in series provide 7.4V, switched by a master toggle switch. The high gear ratio helps hold the robot in place when stopped.
+Wiring: two motors in parallel on one L298N output and the third motor on the other, controlled with plain digital pins.
 
 [One-line description.]
 
